@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 Currently working on Java Full Stack <br>👯 Looking to collaborate on AI powered website / responsive designs<br>🌱 I’m currently learning Generative AI
+-- Second Year B.Tech Student @ SGSITS,Indore <br>
+-- 2* @ CodeChef & 1650+ Rating on LeetCode <br>
+-- Proficient in Java Full Stack Development using Spring Boot <br>
+-- Currently Exploring Generative AI using LangChain, LangGraph etc. <br>
+
 
 
 ## 🌐 Socials:
