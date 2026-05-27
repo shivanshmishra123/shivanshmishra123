@@ -1,6 +1,6 @@
 # 💫 About Me:
--- Second Year B.Tech Student @ SGSITS,Indore <br>
--- 2* @ CodeChef & 1650+ Rating on LeetCode <br>
+-- Third Year B.Tech Student @ SGSITS,Indore <br>
+-- 3* @ CodeChef & 1850+ Rating on LeetCode <br>
 -- Proficient in Java Full Stack Development using Spring Boot <br>
 -- Currently Exploring Generative AI using LangChain, LangGraph etc. <br>
 
